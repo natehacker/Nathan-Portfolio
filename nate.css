@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    background-color: black;
+}
+
+.content {
+    position: relative;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.content .text {
+    position: relative;
+    max-width: 600px;
+    color: azure;
+    left: 100px;
+    font-family: 'Bangers';
+}
+
+.content .text h1 span {
+    font-size: 50px;
+    color: azure;
+  
+    
+    
+}
+.content .text p {
+    /* font-size: 17px;
+    font-weight: 600;
+    letter-spacing: .1em;
+    margin-top: 40px;
+    color: #e7e3e3;
+    right: 40px;
+    font-family: "Times New Roman", Times, serif; */
+    font-family: 'Bangers';
+    font-size: 20px;
+ }
+
+
+.nate {
+    display: flex;
+    height: 100%;
+    width: 600px;
+    padding-left: 440px;
+    justify-content:left;
+   
+}
